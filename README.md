@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**karthik507/karthik507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Here is  what iam working on!👋
+about me:
+- 🔭 I’m currently working on front end projects.
+- 🌱 I’m currently learning python,java.
+- 👯 I’m looking to collaborate on youtube
+- 🤔 I’m looking for help with back end development(PHP).
+- 💬 Ask me about anything related to tech related stuff.
+- 📫 How to reach me: instagram-https://instagram.com/karthik_shivanand_?utm_medium=copy_link
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:I spend almost 8 hours listening songs everyday.
 -->
+ 
